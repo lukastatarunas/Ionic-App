@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "Lukas",
+      "password": "lukas",
+      "userType": "Individual",
+      "projects": [
+        1,
+        2,
+        3
+      ],
+      "id": 1
+    },
+    {
+      "username": "VGTU",
+      "password": "vgtu",
+      "userType": "Company",
+      "projects": [
+        4
+      ],
+      "id": 1
+    }
+  ],
+  "projects": []
+}

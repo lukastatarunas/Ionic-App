@@ -1,5 +1,7 @@
 {
   "name": "6lab",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
